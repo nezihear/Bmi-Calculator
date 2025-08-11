@@ -17,7 +17,7 @@ skorGosterge.write(f"Skor: {skor}" , align = "center", font=("Arial", 20, "bold"
 kurbaga = turtle.Turtle()
 kurbaga.shape("turtle")
 kurbaga.color("green")
-kurbaga.shapesize(4)
+kurbaga.shapesize(3,3)
 kurbaga.penup()
 
 sure = 10
